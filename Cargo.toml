@@ -1,0 +1,13 @@
+[package]
+authors = ["bleaklake"]
+name = "spawn_interval"
+description = "Call a subroutine at a constant time interval"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+homepage = "https://github.com/bleaklake/rust_spawn_interval"
+repository = "https://github.com/bleaklake/rust_spawn_interval"
+documentation = "https://github.com/bleaklake/rust_spawn_interval/blob/main/README.md"
+readme = "README.md"
+keywords = ["async", "timers", "time", "interval", "multithreading"]
+categories = ["accessibility", "asynchronous", "concurrency", "date-and-time"]
