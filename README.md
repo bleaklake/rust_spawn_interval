@@ -68,6 +68,7 @@ use std::{
     thread,
     time::Duration,
 };
+use spawn_interval;
 
 fn main() {
     // The data shared with the given callback has to be thread-safe.
